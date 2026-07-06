@@ -4,9 +4,9 @@ Portfolio Mickaël Maillot, AIS (Administrateur d'Infrastructures Sécurisées).
 
 ---
 
-💼 **[Profil LinkedIn](https://www.linkedin.com/in/mickaël-maillot-pro/)**
-📝 **[Profil Credly](https://www.credly.com/users/mickael-maillot)**
-🔗 **[Voir le portfolio en ligne](https://m-mickael.github.io/index.html)**
+💼 <a href="https://www.linkedin.com/in/mickaël-maillot-pro/" target="_blank" rel="noopener noreferrer">**Profil LinkedIn**</a>
+📝 <a href="https://www.credly.com/users/mickael-maillot" target="_blank" rel="noopener noreferrer">**Profil Credly**</a>
+🔗 <a href="https://m-mickael.github.io/index.html" target="_blank" rel="noopener noreferrer">**Voir le portfolio en ligne**</a>
 
 ---
 
