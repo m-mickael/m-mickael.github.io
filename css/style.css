@@ -126,29 +126,42 @@ body {
     color: var(--text-color);
 }
 
+/* 
+Settings for green :
+background-color: rgba(34, 197, 94, 0.1);
+border: 1px solid rgba(34, 197, 94, 0.2);
+color: #4ade80;
+Settings for red :
+background-color: rgba(197, 34, 34, 0.1);
+border: 1px solid rgba(197, 34, 34, 0.2);
+color: #de4a4a;
+*/
 .status-badge {
     display: inline-flex;
     align-items: center;
     gap: 0.6rem;
-    background-color: rgba(34, 197, 94, 0.1);
-    color: #4ade80;
+    background-color: rgba(197, 34, 34, 0.1);
+    color: #de4a4a;
     padding: 0.4rem 0.9rem;
     border-radius: 20px;
     font-size: 0.85rem;
     font-weight: 600;
     margin-bottom: 1.5rem;
-    border: 1px solid rgba(34, 197, 94, 0.2);
+    border: 1px solid rgba(197, 34, 34, 0.2);
     letter-spacing: 0.5px;
 }
 
+
+/* Colors for green : #22c55e, for red : c52222*/
 .status-dot {
     width: 8px;
     height: 8px;
-    background-color: #22c55e;
+    background-color: #c52222;
     border-radius: 50%;
     position: relative;
 }
 
+/* Colors for green : #22c55e, for red : c52222*/
 .status-dot::after {
     content: '';
     position: absolute;
@@ -156,7 +169,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #22c55e;
+    background-color: #c52222;
     border-radius: 50%;
     animation: pulse 2s infinite;
 }
